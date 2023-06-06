@@ -16,7 +16,7 @@ I'm Muhammad Arslan, and I am an experienced full-stack developer with over 10+ 
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
 <a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a>
 <a href="https://svelte.dev/docs"><img src="./assets/svelte.png" alt="svelte" height="100" title="Svelte documentation"></a>
-<a href="https://nuxt.com/docs"><img src="./assets/nuxt.png" alt="nuxt" height="100" title="Svelte documentation"></a>
+<a href="https://nuxt.com/docs"><img src="./assets/nuxt.png" alt="nuxt" height="100" title="Nuxt documentation"></a>
 <a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
 <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
 <br/>
