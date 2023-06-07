@@ -42,10 +42,6 @@ I'm Muhammad Arslan, and I am an experienced full-stack developer with over 10+ 
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
       <br>Webpack
     </td>
@@ -99,16 +95,8 @@ I'm Muhammad Arslan, and I am an experienced full-stack developer with over 10+ 
         <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
       <br>GraphQL
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
   </tr>
  <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
@@ -133,6 +121,14 @@ I'm Muhammad Arslan, and I am an experienced full-stack developer with over 10+ 
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
       <br>Sass
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
     </td>
  </tr>
 </table>
